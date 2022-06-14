@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e78cee2f-f7ae-4fdc-bb04-5a95076573be" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon.iml" afterDir="false" />
+    <list default="true" id="e78cee2f-f7ae-4fdc-bb04-5a95076573be" name="변경" comment="백준 10171">
+      <change afterPath="$PROJECT_DIR$/src/book169ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book170ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book170ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book171ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/book172ex08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="B10171" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B10171" />
+    <configuration name="book172ex08" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book172ex08" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653355717435</updated>
     </task>
+    <task id="LOCAL-00001" summary="백준 10171">
+      <created>1654746175005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654746175005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 10171" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 10171" />
   </component>
 </project>
